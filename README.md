@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GifsApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.6.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+=======
+# GifsApps
+Un buscador para tus gifs favoritos de : https://giphy.com/
+>>>>>>> 610797bd6e4b2530806b3a9d0caa534e2f97cbb6
