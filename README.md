@@ -1,32 +1,16 @@
-<<<<<<< HEAD
-# GifsApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.6.
+# 🌟 GifsApp 🌟
+  Este proyecto es un buscador de gifs basado en https://giphy.com/
+  
+  Acá podrás realizar la búsqueda de tus gifs favoritos 🔍
+  ![image](https://user-images.githubusercontent.com/48034536/206939624-bc47699d-d5c7-40c9-a2a4-1a2d15be1b42.png)
 
-## Development server
+  ![image](https://user-images.githubusercontent.com/48034536/206939648-eee7b210-48b5-4a62-ad41-bc32a9d78307.png)
+  
+  Y lo más interesante, todas tus busquedas quedan almacenadas 📦.
+  ![image](https://user-images.githubusercontent.com/48034536/206939712-3405d2af-d77e-4937-83e7-f607788c2a85.png)
+ 
+ 
+  
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-=======
-# GifsApps
-Un buscador para tus gifs favoritos de : https://giphy.com/
->>>>>>> 610797bd6e4b2530806b3a9d0caa534e2f97cbb6
+  
